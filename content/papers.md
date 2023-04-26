@@ -7,9 +7,14 @@ tags: [Fink, publications]
 
 List of publications from the Fink collaboration and the larger astronomy community that uses Fink public data.
 
+### 2023
+
+[![button1](https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white)](https://arxiv.org/abs/2303.08951) **The Tiny Time-series Transformer: Low-latency High-throughput Classification of Astronomical Transients using Deep Model Compression**,
+_Tarek Allam Jr., Julien Peloton, Jason D. McEwen_
+
 ### 2022
 
-[![button1](https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white)](https://arxiv.org/abs/2211.10987) **Finding active galactic nuclei through Fink**,
+[![button1](https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white)](https://arxiv.org/abs/2211.10987) [![button2](https://img.shields.io/static/v1?label=&message=neurips&color=blue&style=plastic&logo=&logoColor=white)](https://neurips.cc/virtual/2022/event/57026) **Finding active galactic nuclei through Fink**,
 _Etienne Russeil, Emille E. O. Ishida, Roman Le Montagner, Julien Peloton, Anais Moller_
 
 [![button1](https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white)](https://arxiv.org/abs/2210.17433) **Enabling the discovery of fast transients: A kilonova science module for the Fink broker**,
